@@ -14,6 +14,10 @@ such as points, lines, curves and polygons.
 
 ![image](https://user-images.githubusercontent.com/75050655/236378008-179bc828-1955-4974-9bec-6fa268881b8e.png)
 
+For more details, visit the table in my notes which is published in GitHub. The link:
+
+https://github.com/40843245/DigitalSignalProcessing/blob/main/Image/ImageType/Graphics.pptx
+
 ## Ref
 
 Wiki:
